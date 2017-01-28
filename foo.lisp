@@ -1,0 +1,1 @@
+(defun foo nil :hello)
